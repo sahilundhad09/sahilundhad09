@@ -14,7 +14,7 @@
 
 <h3 align="left">My PortFolio:</h3>
 <p align="left">
-<a href="https://port-folio-ofxm.vercel.app/" target="blank"></a>
+**https://port-folio-ofxm.vercel.app**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
